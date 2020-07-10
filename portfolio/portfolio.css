@@ -1,0 +1,26 @@
+h1{
+    text-align: left;
+    color: aqua;
+}
+.Ngunjiri{
+    display: flex;
+    justify-content: left;
+}
+h2{
+    text-align: left;
+    font-style: oblique;
+    color: blue;
+}
+h3{
+    text-align: left;
+    font-style: inherit;
+    color: lightcoral;
+}
+p{
+    text-align: left;
+    font-style: unset;
+}
+ul{
+    text-align:unset;
+    font-style: initial;
+}
